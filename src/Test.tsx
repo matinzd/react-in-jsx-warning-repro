@@ -1,4 +1,4 @@
-import { Text, View } from 'react-native'
+import { Text, View } from 'react-native';
 
 export const TestComponentWithWarning = () => {
     return (
@@ -7,5 +7,5 @@ export const TestComponentWithWarning = () => {
                 {'Hello warning!'}
             </Text>
         </View>
-    )
-}
+    );
+};
